@@ -54,7 +54,7 @@
           "orientation" : "landscape" // Android only (portrait|landscape), default unset so it rotates with the device 
       }
    );
-	};
+  }
 	
 	
 	})();
